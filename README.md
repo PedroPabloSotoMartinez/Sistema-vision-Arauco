@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencias
+
+react-player
+https://www.npmjs.com/package/react-player
+
+CDN de bootstrap (css y js)
+
 ## Available Scripts
 
 In the project directory, you can run:
